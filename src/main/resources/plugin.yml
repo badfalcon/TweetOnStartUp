@@ -1,0 +1,14 @@
+name: TweetOnStartUp
+main: com.gmail.badfalcon610.TweetOnStartUp.TweetOnStartUp
+version: 1.0
+prefix: tosu
+commands:
+   auth:
+      description: authentication
+      usage: /auth
+      permission: auth
+      permission-message: You don't have permission.
+permission:
+   auth:
+      description: authentication permission
+      default: false

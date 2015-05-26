@@ -1,0 +1,6 @@
+# default config.yml
+pin: 
+TweetMessage:
+  - DATE TIME
+  - SERVERIPSERVERPORT
+  - Server is up
